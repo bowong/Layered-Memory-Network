@@ -20,7 +20,7 @@ python mqa_video+subtitle+update+question.py
 
 ## Paper
 
-Bo Wang, Youjiang Xu, Yahong Han, Richang Hong. ["Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents."](https://arxiv.org/abs/1804.09412) AAAI, 2018. [[Paper]](https://arxiv.org/pdf/1804.09412.pdf)
+Bo Wang, Youjiang Xu, Yahong Han, Richang Hong. ["Movie Question Answering: Remembering the Textual Cues for Layered Visual Contents."](https://arxiv.org/abs/1804.09412) AAAI, 2018. [[Paper]](https://arxiv.org/abs/1804.09412)
 ```
 @inproceedings{Wang2018,
   author    = {Bo Wang and Youjiang Xu and Yahong Han and Richang Hong},
